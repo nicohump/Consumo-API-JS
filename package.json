@@ -1,0 +1,19 @@
+{
+  "name": "consumo-api-js",
+  "version": "1.0.0",
+  "description": "Proyecto para el consumo de una API publica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicohump/Consumo-API-JS.git"
+  },
+  "author": "nicolas Humpola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicohump/Consumo-API-JS/issues"
+  },
+  "homepage": "https://github.com/nicohump/Consumo-API-JS#readme"
+}
